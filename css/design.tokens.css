@@ -1,0 +1,11 @@
+:root {
+ 	--colors-error: red;
+ 	--colors-success: green;
+ 	--colors-warning: yellow;
+ 	--sizes-large: 32px;
+ 	--sizes-medium: 24px;
+ 	--sizes-radius: 3px;
+ 	--sizes-small: 16px;
+ 	--sizes-tiny: 8px;
+ 	--sizes-xlarge: 40px;
+}

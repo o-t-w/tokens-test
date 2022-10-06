@@ -1,0 +1,13 @@
+{
+    "transforms": [
+      {
+        "from": "tokens",
+        "to": [
+          {
+            "as": "css",
+            "to": "css"
+          }
+        ]
+      }
+    ]
+  }
