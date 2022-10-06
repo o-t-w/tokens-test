@@ -1,9 +1,9 @@
 {   "colors": {
     "$description": "Color palette",
     "$type": "color",
-    "error": { "$value": "red" },
-    "success": { "$value": "green" },
-    "warning": { "$value": "yellow" } 
+    "error": { "$value": "#CA3618" },
+    "success": { "$value": "#109F53" },
+    "warning": { "$value": "#FFD966" } 
 },
     "sizes": {
         "radius": { "$value": "3px" },
